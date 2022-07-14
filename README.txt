@@ -1,1 +1,2 @@
-Hello Git and GitHub
+Hello Git and Github.
+It's a mass!
